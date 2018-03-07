@@ -1,3 +1,3 @@
-# react_practice
+# React practice
 
-Just a little practice getting to know React
+
